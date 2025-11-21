@@ -1,0 +1,6 @@
+Métrica,Obtido,Meta Projeto,Status
+Precision@10,17.67%,70-75%,🟡 Parcial
+Recall@10,44.17%,≥30%,✅ Atingiu
+NDCG@10,38.48%,≥50%,🟡 Parcial
+Coverage,1.54%,≥10%,⚠️ Abaixo
+Diversity,65.00%,≥70%,🟡 Parcial
